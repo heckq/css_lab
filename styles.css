@@ -46,7 +46,7 @@ header nav a{
 }
 
 header nav a:hover{
-    color: #c90f0f;
+    color: #0fc92e;
     text-decoration:underline;
     transition: 0.5s;
 }
